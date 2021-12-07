@@ -1,0 +1,2 @@
+# Qadrator
+Solve quadratic equation
